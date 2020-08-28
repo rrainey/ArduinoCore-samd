@@ -1,5 +1,7 @@
 *.bz2
 *.atsuo
+*hourly-build_index.json
 
 bootloaders/*/build/
 *~
+.DS_Store
